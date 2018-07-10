@@ -1,0 +1,3 @@
+Deposit of $500.0 to Chequing at 03/03/18 20:32:46
+Withdrawl of $200.0 from Chequing at 03/03/18 20:32:46
+Tranfered $100.0 into Chequing at 03/03/18 20:32:46
